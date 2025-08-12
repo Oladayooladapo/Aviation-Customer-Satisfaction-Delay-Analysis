@@ -11,7 +11,7 @@ SkyBound Analytics partners with several leading airlines to enhance operational
 
 ---
 
-### 🏨 Business Overview
+### Business Overview
 
 SkyBound Analytics partners with several leading airlines to enhance operational efficiency and customer experience using data science. Airline customers often face service delays, inconsistent satisfaction levels, and unreliable loyalty experiences. In this project, we explore flight-level data to uncover actionable patterns that inform delay reduction and passenger satisfaction strategies.
 
